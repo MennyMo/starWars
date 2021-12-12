@@ -17,3 +17,8 @@ Project is created with:
 * Javascript
 ## Setup
 To run, clone this project into your visual studio code and open with the live server.
+
+### Scope of functionalities 
+Basically, whenever you click each name on the navigation bar, it should route you to view their other properties.
+But at the moment, the properties do not fetch data from the respected URL.
+
